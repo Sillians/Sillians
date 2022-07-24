@@ -1,6 +1,6 @@
-## Hey there!! 👋
-#### I'm Basil Ihuoma ☺☺.
-I have passion for learning 💛💥 and I like having fun solving Machine Learning related problems (Still figuring things out bit by bit). I love reading ML research papers and diversed books 📚 of which my favorites are 
+## Hii there!! 👋👋👋
+#### I'm a Data | MLOps Engineer.
+I have passion for learning 💛💥 and I like having fun solving Data / Machine Learning related problems. I love reading ML research papers and diversed books 📚 of which my favorites are 
 - Outliers by Malcolm Gladwell
 - Originals by Adam Grant
 - Atomic Habits by James Clear
@@ -29,12 +29,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 #### ✍✍ Blog & Writing
 Apart from coding, I also write on [Medium](https://medium.com/@ihuomacbasil)
 
-#### 🛠🛠 Technologies & Tools
-
-
-![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sillians&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sillians&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
