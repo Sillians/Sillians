@@ -3,6 +3,8 @@
 I have passion for learning 💛💥 and I like having fun solving Data / Machine Learning related problems. I love reading ML research papers and diversed books 📚 of which my favorites are 
 - Outliers by Malcolm Gladwell
 - Originals by Adam Grant
+- Bad Blood (Secrets and Lies in a Silicon Valley Startup) by John Carreyrou
+- Ace of Spades by Faridah Abike-Iyimide
 - Atomic Habits by James Clear
 - Educated by Tara Westover and 
 - A thousand Brains by Jeff Hawkins
