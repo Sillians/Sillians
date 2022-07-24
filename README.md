@@ -7,7 +7,7 @@ I have passion for learning 💛💥 and I like having fun solving Data / Machin
 - Educated by Tara Westover and 
 - A thousand Brains by Jeff Hawkins
 
-I am very much open to learning something new 👐, exploring new oppurtunities 😎, contributing/collaborating on ML related projects, open to great conversations as well.
+I am very much open to learning something new 👐, exploring new oppurtunities 😎, contributing/collaborating on ML related projects, open to great conversations as well. In Love with the game of Basketball 🏀 (#Dubnation) and Tennis.
 
 #### Let's connect 
 
@@ -27,7 +27,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 
 #### ✍✍ Blog & Writing
-Apart from coding, I also write on [Medium](https://medium.com/@ihuomacbasil)
+I also write on [Medium](https://medium.com/@ihuomacbasil)
 
 
 
