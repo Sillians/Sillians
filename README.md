@@ -1,4 +1,4 @@
-## Hii there!! 👋👋👋
+## Hii there!! 👋
 #### I'm a Data | MLOps Engineer.
 I have passion for learning 💛💥 and I like having fun solving Data / Machine Learning related problems. I love reading ML research papers and diversed books 📚 of which my favorites are 
 - Outliers by Malcolm Gladwell
