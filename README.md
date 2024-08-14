@@ -1,15 +1,19 @@
-## Hii there!! 👋
-#### I'm a Data | MLOps Engineer.
-I have passion for learning 💛💥 and I like having fun solving Data / Machine Learning related problems. I love reading ML research papers and diversed books 📚 of which my favorites are 
-- Outliers by Malcolm Gladwell
-- Originals by Adam Grant
-- Bad Blood (Secrets and Lies in a Silicon Valley Startup) by John Carreyrou
-- Ace of Spades by Faridah Abike-Iyimide
-- Atomic Habits by James Clear
-- Educated by Tara Westover and 
-- A thousand Brains by Jeff Hawkins
+👋 Hi there! I'm a passionate Data & Machine Learning Engineer who thrives on the excitement of solving complex data and ML-related challenges. My journey is fueled by an insatiable curiosity and a love for continuous learning 💛💥.
 
-I am very much open to learning something new 👐, exploring new oppurtunities 😎, contributing/collaborating on ML related projects, open to great conversations as well. In Love with the game of Basketball 🏀 (#Dubnation) and Tennis.
+When I'm not diving deep into ML models or tinkering with data pipelines, you'll find me immersed in a good book. Some of my all-time favorites include:
+- **"Outliers" by Malcolm Gladwell**: A fascinating look at the hidden forces behind success.
+- **"Originals" by Adam Grant**: Inspiring insights on how non-conformists move the world.
+- **"Bad Blood" by John Carreyrou**: The thrilling exposé of Silicon Valley's most notorious startup.
+- **"Ace of Spades" by Faridah Abike-Iyimide**: A gripping YA novel that keeps you on the edge of your seat.
+- **"Atomic Habits" by James Clear**: Practical strategies for building good habits and breaking bad ones.
+- **"Educated" by Tara Westover**: A memoir of resilience and the transformative power of education.
+- **"A Thousand Brains" by Jeff Hawkins**: An exploration of how the brain works and what it means for AI.
+
+I’m always eager to learn something new 👐, whether it's a cutting-edge ML technique, a novel approach to data engineering, or an entirely new field. I’m open to exploring new opportunities 😎, collaborating on exciting ML projects, and engaging in thought-provoking conversations.
+
+Outside of the tech world, I'm a huge fan of basketball 🏀 (#Dubnation) and tennis 🎾.
+
+Let's connect, collaborate, and create something amazing together! 🚀
 
 #### Let's connect 
 
