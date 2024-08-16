@@ -4,8 +4,6 @@ When I'm not diving deep into ML models or tinkering with data pipelines, you'll
 - **"Outliers" by Malcolm Gladwell**: A fascinating look at the hidden forces behind success.
 - **"Originals" by Adam Grant**: Inspiring insights on how non-conformists move the world.
 - **"Bad Blood" by John Carreyrou**: The thrilling exposé of Silicon Valley's most notorious startup.
-- **"Ace of Spades" by Faridah Abike-Iyimide**: A gripping YA novel that keeps you on the edge of your seat.
-- **"Atomic Habits" by James Clear**: Practical strategies for building good habits and breaking bad ones.
 - **"Educated" by Tara Westover**: A memoir of resilience and the transformative power of education.
 - **"A Thousand Brains" by Jeff Hawkins**: An exploration of how the brain works and what it means for AI.
 
