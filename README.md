@@ -30,10 +30,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/basil-ihuoma-004356ab/
 
 
-#### ✍✍ Blog & Writing
-I also write on [Medium](https://medium.com/@ihuomacbasil) and [Hashnode](https://sillians.hashnode.dev/)
-
-
 
 
 
