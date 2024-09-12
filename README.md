@@ -1,12 +1,5 @@
 👋 Hi there! I'm a passionate Data & Machine Learning Engineer who thrives on the excitement of solving complex data and ML-related challenges. My journey is fueled by an insatiable curiosity and a love for continuous learning 💛💥.
 
-When I'm not diving deep into ML models or tinkering with data pipelines, you'll find me immersed in a good book. Some of my all-time favorites include:
-- **"Outliers" by Malcolm Gladwell**: A fascinating look at the hidden forces behind success.
-- **"Originals" by Adam Grant**: Inspiring insights on how non-conformists move the world.
-- **"Bad Blood" by John Carreyrou**: The thrilling exposé of Silicon Valley's most notorious startup.
-- **"Educated" by Tara Westover**: A memoir of resilience and the transformative power of education.
-- **"A Thousand Brains" by Jeff Hawkins**: An exploration of how the brain works and what it means for AI.
-
 I’m always eager to learn something new 👐, whether it's a cutting-edge ML technique, a novel approach to data engineering, or an entirely new field. I’m open to exploring new opportunities 😎, collaborating on exciting ML projects, and engaging in thought-provoking conversations.
 
 Outside of the tech world, I'm a huge fan of basketball 🏀 (#Dubnation) and tennis 🎾.
