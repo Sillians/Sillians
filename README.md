@@ -1,10 +1,10 @@
 👋 Hi there! I'm a passionate Data & Machine Learning Engineer who thrives on the excitement of solving complex data and ML-related challenges. An insatiable curiosity and a love for continuous learning fuel my journey.
 
-I’m always eager to learn something new, whether it's a cutting-edge ML technique, a novel approach to data engineering, or an entirely new field. I’m open to exploring new opportunities 😎, collaborating on exciting ML projects, and engaging in thought-provoking conversations.
+I’m always eager to learn something new, whether it's a cutting-edge ML technique, a novel approach to data engineering, or an entirely new field. I’m open to exploring new opportunities, collaborating on exciting ML projects, and engaging in thought-provoking conversations.
 
 Outside of the tech world, I'm a huge fan of basketball 🏀 (#Dubnation) and tennis 🎾.
 
-Let's connect, collaborate, and create something amazing together! 🚀
+Let's connect, collaborate, and create something amazing together!
 
 #### Let's connect 
 
