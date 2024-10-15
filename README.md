@@ -1,6 +1,6 @@
-👋 Hi there! I'm a passionate Data & Machine Learning Engineer who thrives on the excitement of solving complex data and ML-related challenges. My journey is fueled by an insatiable curiosity and a love for continuous learning 💛💥.
+👋 Hi there! I'm a passionate Data & Machine Learning Engineer who thrives on the excitement of solving complex data and ML-related challenges. An insatiable curiosity and a love for continuous learning fuel my journey.
 
-I’m always eager to learn something new 👐, whether it's a cutting-edge ML technique, a novel approach to data engineering, or an entirely new field. I’m open to exploring new opportunities 😎, collaborating on exciting ML projects, and engaging in thought-provoking conversations.
+I’m always eager to learn something new, whether it's a cutting-edge ML technique, a novel approach to data engineering, or an entirely new field. I’m open to exploring new opportunities 😎, collaborating on exciting ML projects, and engaging in thought-provoking conversations.
 
 Outside of the tech world, I'm a huge fan of basketball 🏀 (#Dubnation) and tennis 🎾.
 
@@ -14,7 +14,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
