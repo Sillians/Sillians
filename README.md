@@ -4,18 +4,6 @@ I’m always eager to learn something new, whether it's a cutting-edge ML techni
 
 Outside of the tech world, I'm a huge fan of basketball 🏀 (#Dubnation) and tennis 🎾.
 
-Let's connect, collaborate, and create something amazing together!
-
-#### Let's connect 
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
