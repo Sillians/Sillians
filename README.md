@@ -1,9 +1,8 @@
-👋 Hi there! I'm a passionate Data & Machine Learning Engineer who thrives on the excitement of solving complex data and ML-related challenges. An insatiable curiosity and a love for continuous learning fuel my journey.
+## Painstakingly Overfitting on a Learning Curve.
 
-I’m always eager to learn something new, whether it's a cutting-edge ML technique, a novel approach to data engineering, or an entirely new field. I’m open to exploring new opportunities, collaborating on exciting ML projects, and engaging in thought-provoking conversations.
+With a background in data science and extensive Python experience, I'm diving deeper into solving real-world problems using data engineering and machine learning. Every day brings new growth opportunities, and my passion for continuous learning drives me to tackle complex challenges, sharpen my skills, and share valuable insights. I believe in learning by building and building by learning—whether it’s foundational computer science, software engineering practices, or advanced machine learning techniques. 
 
-Outside of the tech world, I'm a huge fan of basketball 🏀 (#Dubnation) and tennis 🎾.
-
+I enjoy early morning runs 🏃‍♂️ and occasionally playing basketball 🏀.
 
 <!-- Links to your social media accounts -->
 
